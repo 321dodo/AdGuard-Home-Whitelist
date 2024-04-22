@@ -323,3 +323,14 @@
 # Wow Tv App ex Sky
 @@||dpm.demdex.net^$important
 @@||identity.mparticle.com^$important
+@@||aax-us-east.amazon-adsystem.com^$important
+@@||device-metrics-us-2.amazon.com^$important
+@@||device-metrics-us.amazon.com^$important
+@@||cognito-identity.us-east-1.amazonaws.com^$important
+@@||unagi-na.amazon.com^$important
+@@||ocsp.rootg2.amazontrust.com^$important
+@@||det-ta-g7g.amazon.com^$important
+@@||todo-ta-g7g.amazon.com^$important
+@@||device-messaging-na.amazon.com^$important
+@@||s3-eu-west-1.amazonaws.com^$important
+@@||us-east-1.amazonaws.com^$important
